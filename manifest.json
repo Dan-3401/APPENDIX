@@ -79,13 +79,127 @@
       "published": "documents/pc-cn.docx",
       "online": "reading/pc-cn.html",
       "sha256": "ea593f06a8b31afb7c8975da5920c5e05afbed6159e01d1c57a0518837763776"
+    },
+    {
+      "source": "企划原稿图片_方向校正_装订版.pdf",
+      "source_type": "user_provided_pdf",
+      "published": "manuscripts/root-manuscript-cn.pdf",
+      "online": "manuscripts/index.html",
+      "pages": 15,
+      "sha256": "814968148e594819258f40d25fdcc79c8410878d685da35367a8aaf81011de2f"
+    },
+    {
+      "source": "企划原稿图片_方向校正_装订版.pdf",
+      "source_page": 1,
+      "source_type": "pdf_page_render",
+      "published": "manuscripts/pages/page-01.jpg",
+      "sha256": "7d63be5fbc5335260ae271327c24d7b0c41ed4468b19c857775de96a04e1d425"
+    },
+    {
+      "source": "企划原稿图片_方向校正_装订版.pdf",
+      "source_page": 2,
+      "source_type": "pdf_page_render",
+      "published": "manuscripts/pages/page-02.jpg",
+      "sha256": "92b09cee89d9e164b45df12878e8b6bc7c25a8b29520949a7f78f2e682358ecb"
+    },
+    {
+      "source": "企划原稿图片_方向校正_装订版.pdf",
+      "source_page": 3,
+      "source_type": "pdf_page_render",
+      "published": "manuscripts/pages/page-03.jpg",
+      "sha256": "ea14b0bdb8b6111024f3fddfb477363b10bbf27baf736d7307e85f687cde1214"
+    },
+    {
+      "source": "企划原稿图片_方向校正_装订版.pdf",
+      "source_page": 4,
+      "source_type": "pdf_page_render",
+      "published": "manuscripts/pages/page-04.jpg",
+      "sha256": "bfbbe85e1c2b3c793d8d07b2dbc89f042605c82611b2ba9fa5bdd38bf818b3ae"
+    },
+    {
+      "source": "企划原稿图片_方向校正_装订版.pdf",
+      "source_page": 5,
+      "source_type": "pdf_page_render",
+      "published": "manuscripts/pages/page-05.jpg",
+      "sha256": "f31479026adf7246b00b690918e628a3ee1eb76cd47eafd8a95841b4a349b00e"
+    },
+    {
+      "source": "企划原稿图片_方向校正_装订版.pdf",
+      "source_page": 6,
+      "source_type": "pdf_page_render",
+      "published": "manuscripts/pages/page-06.jpg",
+      "sha256": "a48a114f2751db03679037f615f55e07e185b8969e241cb8ce8a4bc82a50b92b"
+    },
+    {
+      "source": "企划原稿图片_方向校正_装订版.pdf",
+      "source_page": 7,
+      "source_type": "pdf_page_render",
+      "published": "manuscripts/pages/page-07.jpg",
+      "sha256": "62b41b82351edc039af6f9e647dd72b0af89cbb0b4780fcb6261c8a53d65c61e"
+    },
+    {
+      "source": "企划原稿图片_方向校正_装订版.pdf",
+      "source_page": 8,
+      "source_type": "pdf_page_render",
+      "published": "manuscripts/pages/page-08.jpg",
+      "sha256": "23c7066057dcc584e441ec5857c16ab96dd32769ab715f8288efeef33453f2d6"
+    },
+    {
+      "source": "企划原稿图片_方向校正_装订版.pdf",
+      "source_page": 9,
+      "source_type": "pdf_page_render",
+      "published": "manuscripts/pages/page-09.jpg",
+      "sha256": "ec57052d3c1a69d3c503cb996cb4ee99692e237c357f3c5e267da3912b665b1c"
+    },
+    {
+      "source": "企划原稿图片_方向校正_装订版.pdf",
+      "source_page": 10,
+      "source_type": "pdf_page_render",
+      "published": "manuscripts/pages/page-10.jpg",
+      "sha256": "eff73bfbc464fb720f2c90b0fe1e41b1bf28489bf37796c20bf2a136ede7f2b9"
+    },
+    {
+      "source": "企划原稿图片_方向校正_装订版.pdf",
+      "source_page": 11,
+      "source_type": "pdf_page_render",
+      "published": "manuscripts/pages/page-11.jpg",
+      "sha256": "ed46a8e699321760468475bdf794fa02aaa71528ce54cfe3cd79bbcef1912dc5"
+    },
+    {
+      "source": "企划原稿图片_方向校正_装订版.pdf",
+      "source_page": 12,
+      "source_type": "pdf_page_render",
+      "published": "manuscripts/pages/page-12.jpg",
+      "sha256": "42eb4658d7b48dc059e72cdd0d67dfc2186400ab8ea3c3f6470640e2951f5213"
+    },
+    {
+      "source": "企划原稿图片_方向校正_装订版.pdf",
+      "source_page": 13,
+      "source_type": "pdf_page_render",
+      "published": "manuscripts/pages/page-13.jpg",
+      "sha256": "e2a8ebba184cea436dc721a6cef0c6b3060648d0df9e5130428d9645b470de03"
+    },
+    {
+      "source": "企划原稿图片_方向校正_装订版.pdf",
+      "source_page": 14,
+      "source_type": "pdf_page_render",
+      "published": "manuscripts/pages/page-14.jpg",
+      "sha256": "353de7ad344edcac408b9fe1bab41a473459bf8d4550f0bcbbc11dd31aaeabb7"
+    },
+    {
+      "source": "企划原稿图片_方向校正_装订版.pdf",
+      "source_page": 15,
+      "source_type": "pdf_page_render",
+      "published": "manuscripts/pages/page-15.jpg",
+      "sha256": "e8f9d4305e355ee4d2aced3707e2d1204adf530d7fd8e8dd3675680939822768"
     }
   ],
-  "manuscript_status": "pending",
+  "manuscript_status": "published",
   "portfolio_mapping": {
     "p4": [
       "reading/root.html",
-      "manuscripts/掲載予定.txt"
+      "manuscripts/index.html",
+      "manuscripts/root-manuscript-cn.pdf"
     ],
     "p6": [
       "attachments/1.jpg",
@@ -129,5 +243,6 @@
       "attachments/10.jpg",
       "attachments/11.jpg"
     ]
-  }
+  },
+  "manuscript_page_count": 15
 }

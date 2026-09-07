@@ -1,0 +1,9 @@
+神聖刻痕 Root｜手書き原稿（中国語）
+
+方向を補正した製本版PDFの全15ページを、元の順序で掲載しています。手書きの本文は中国語のままです。
+
+オンライン閲覧：index.html
+PDF原本：root-manuscript-cn.pdf
+全15ページの画像：pages/page-01.jpg ～ pages/page-15.jpg
+
+電子企画書は ../reading/root.html から閲覧できます。手書き原稿の逐頁転記ではなく、現段階の企画内容を整理したものです。

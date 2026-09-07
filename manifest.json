@@ -60,13 +60,19 @@
       "source": "综合原案/JP/神聖刻痕_Root_DHU出願添付資料_日本語版.docx",
       "published": "documents/root-jp.docx",
       "online": "reading/root.html",
-      "sha256": "8feb8a30432ddd3648cb1916ff47ff89fe069c6e847580c61a2be199fc609248"
+      "sha256": "dc1b917f696f29041068655de4251ae90791649c5b1174d262f9ea7ac2d40576",
+      "source_type": "edited_docx",
+      "original_sha256": "8feb8a30432ddd3648cb1916ff47ff89fe069c6e847580c61a2be199fc609248",
+      "editorial_note": "日本語の語句・文法を校正。企画内容と固有名詞は維持。"
     },
     {
       "source": "综合原案/JP/PC救済計画_DHU出願添付資料_日本語版.docx",
       "published": "documents/pc-jp.docx",
       "online": "reading/pc.html",
-      "sha256": "a892689b95338d1a2d3012614fde48ed3c8600c0a9cad90070fcd99c0d7f90de"
+      "sha256": "e2f72dee1ceba242044fa31ffe69eebc095132ea1ee409f52e3d62b8a6818130",
+      "source_type": "edited_docx",
+      "original_sha256": "a892689b95338d1a2d3012614fde48ed3c8600c0a9cad90070fcd99c0d7f90de",
+      "editorial_note": "日本語の語句・文法を校正。企画内容と固有名詞は維持。"
     },
     {
       "source": "综合原案/CN/神圣刻痕_Root_DHU出愿添付材料_修订版_v3.docx",

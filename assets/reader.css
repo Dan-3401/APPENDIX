@@ -1,0 +1,15 @@
+/* Shared reading controls, with native keyboard-accessible modal dialogs. */
+.reader-control{font:inherit;font-size:.9rem;font-weight:650;color:#fff;background:#14558e;border:1px solid #77b9ed;border-radius:6px;padding:9px 15px;min-height:44px;text-decoration:none;cursor:pointer;white-space:nowrap}
+.reader-control:hover{background:#1b6db7;color:#fff}.reader-control:focus-visible,dialog a:focus-visible{outline:3px solid #9ad8ff;outline-offset:3px}
+.reader-toolbar{position:fixed;z-index:20;bottom:max(14px,env(safe-area-inset-bottom));left:50%;transform:translateX(-50%);display:flex;gap:8px;padding:8px;background:#07294ef5;border:1px solid #539ddd;border-radius:12px;box-shadow:0 6px 28px #0008;max-width:calc(100% - 20px)}
+.has-reader-toolbar{padding-bottom:90px}.has-reader-toolbar>.back-top{display:none}
+.reader-dialog{padding:0;border:1px solid #539ddd;border-radius:12px;background:#092a50;color:#fff;width:min(1100px,calc(100% - 24px));max-width:none;max-height:calc(100dvh - 24px);box-shadow:0 16px 70px #0009;overflow:hidden}
+.reader-dialog::backdrop{background:#020d21dd}.reader-dialog-head{display:flex;gap:14px;justify-content:space-between;align-items:center;padding:14px 18px;border-bottom:1px solid #3976ab;background:#103e70}
+.reader-dialog-head h2{font-size:1rem;margin:0;overflow-wrap:anywhere;line-height:1.5}.image-controls{display:flex;align-items:center;gap:12px;padding:10px 18px;font-size:.8rem}
+.image-viewer-body{overflow:auto;max-height:calc(100dvh - 185px);background:#041b35;overscroll-behavior:contain;padding:12px;text-align:center}
+.image-viewer-body img{display:block;width:auto;height:auto;max-width:100%;max-height:calc(100dvh - 210px);margin:auto}
+.image-viewer-body.original-size img{max-width:none;max-height:none;width:auto;height:auto;margin:0}
+.reader-contents-links{display:grid;gap:4px;padding:16px 22px;max-height:calc(100dvh - 140px);overflow:auto;overscroll-behavior:contain}
+.reader-contents-links a{display:block;padding:9px 12px;border-radius:5px;line-height:1.55}.reader-contents-links a:hover{background:#14558e}
+@media(max-width:560px){.reader-dialog-head{padding:12px;gap:8px}.reader-dialog-head h2{font-size:.85rem}.reader-control{padding:9px 12px}.image-controls{padding:8px 12px;gap:8px}.reader-contents-links{padding:12px}.reader-toolbar{gap:6px}.image-controls span{line-height:1.5}}
+@media print{.reader-toolbar,.reader-dialog{display:none!important}.has-reader-toolbar{padding-bottom:0}}

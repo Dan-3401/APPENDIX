@@ -1,0 +1,133 @@
+{
+  "updated": "2026-09-07",
+  "files": [
+    {
+      "source": "1.jpg",
+      "published": "attachments/1.jpg",
+      "sha256": "feee21edb3a9d0a9057d8c1fc7fffd6f773df58b4fb6903fad98318ad5c4211a"
+    },
+    {
+      "source": "10.jpg",
+      "published": "attachments/10.jpg",
+      "sha256": "384490ce9f99e1707123aac6f7db0ef34f65e826401e4ce49080b236fae19fb0"
+    },
+    {
+      "source": "11.jpg",
+      "published": "attachments/11.jpg",
+      "sha256": "e51f705d0eeb2c316d8c442fb67aaf33f9dbe04d783d1ea919ed6867227ae861"
+    },
+    {
+      "source": "2.png",
+      "published": "attachments/2.png",
+      "sha256": "6a05240692d1af0f4442c8fcc63be6ae66b37bdada26c76069eb7366c36c9151"
+    },
+    {
+      "source": "3.png",
+      "published": "attachments/3.png",
+      "sha256": "142ec0164c0cf80417395909cf8e842ef1382d625a980b30244f277585aa7081"
+    },
+    {
+      "source": "4.jpg",
+      "published": "attachments/4.jpg",
+      "sha256": "10ad09ec19cbc8aebe28218a804f588ba3aa1ffe8530ce01bb1d0b88e92c06b3"
+    },
+    {
+      "source": "5.jpg",
+      "published": "attachments/5.jpg",
+      "sha256": "23cdd45a30d61b751d70df874d46e7547d58a3a82d60cb77ce3e71fd7a337c3e"
+    },
+    {
+      "source": "6.jpg",
+      "published": "attachments/6.jpg",
+      "sha256": "c123cd282b1ce05a3231674f41eae74dde324093f1dc8e99a0716801bf964b1a"
+    },
+    {
+      "source": "7.jpg",
+      "published": "attachments/7.jpg",
+      "sha256": "d75485fc8f56b4cff009af2b543e021830297820f2dfd7337f62b1baf6ce19b3"
+    },
+    {
+      "source": "8.jpg",
+      "published": "attachments/8.jpg",
+      "sha256": "79bd0fba869412db6a3c8ff7508dd25dc3d1f93c5aced57dfba1359c9634033e"
+    },
+    {
+      "source": "9.jpg",
+      "published": "attachments/9.jpg",
+      "sha256": "fa9b55834524c437f360739f52dd0b4ce8f83967963780d188b9dd9a310e9f2d"
+    },
+    {
+      "source": "综合原案/JP/神聖刻痕_Root_DHU出願添付資料_日本語版.docx",
+      "published": "documents/root-jp.docx",
+      "online": "reading/root.html",
+      "sha256": "8feb8a30432ddd3648cb1916ff47ff89fe069c6e847580c61a2be199fc609248"
+    },
+    {
+      "source": "综合原案/JP/PC救済計画_DHU出願添付資料_日本語版.docx",
+      "published": "documents/pc-jp.docx",
+      "online": "reading/pc.html",
+      "sha256": "a892689b95338d1a2d3012614fde48ed3c8600c0a9cad90070fcd99c0d7f90de"
+    },
+    {
+      "source": "综合原案/CN/神圣刻痕_Root_DHU出愿添付材料_修订版_v3.docx",
+      "published": "documents/root-cn.docx",
+      "online": "reading/root-cn.html",
+      "sha256": "835724c7a375bc9cc3c1cca1c5ad0f4735bed80e2bff8432d6e520cb9265dd7c"
+    },
+    {
+      "source": "综合原案/CN/PC拯救计划_DHU出愿添付资料_中文企划书_v1.docx",
+      "published": "documents/pc-cn.docx",
+      "online": "reading/pc-cn.html",
+      "sha256": "ea593f06a8b31afb7c8975da5920c5e05afbed6159e01d1c57a0518837763776"
+    }
+  ],
+  "manuscript_status": "pending",
+  "portfolio_mapping": {
+    "p4": [
+      "reading/root.html",
+      "manuscripts/掲載予定.txt"
+    ],
+    "p6": [
+      "attachments/1.jpg",
+      "https://www.toutiao.com/video/6519654261809217540/"
+    ],
+    "p7": [
+      "https://www.bilibili.com/video/BV1x24y1Q72n/",
+      "https://www.bilibili.com/video/BV1ag411J74V/",
+      "https://www.bilibili.com/video/BV14d4y1H71N/"
+    ],
+    "p8-p12": [
+      "https://space.bilibili.com/454049929/upload/video"
+    ],
+    "p13": [
+      "https://github.com/Dan-3401"
+    ],
+    "p14": [
+      "reading/pc.html",
+      "https://dan-3401.github.io/PC-SAVE-PROJECT/",
+      "https://github.com/Dan-3401/PC-SAVE-PROJECT/releases/tag/v1.0"
+    ],
+    "p18-p19": [
+      "https://github.com/Dan-3401/root-c-"
+    ],
+    "p20": [
+      "https://github.com/Dan-3401/Dan-Mini-Apps"
+    ],
+    "p22": [
+      "attachments/2.png",
+      "attachments/3.png"
+    ],
+    "p24": [
+      "attachments/4.jpg",
+      "attachments/5.jpg",
+      "attachments/6.jpg",
+      "attachments/7.jpg"
+    ],
+    "p25": [
+      "attachments/8.jpg",
+      "attachments/9.jpg",
+      "attachments/10.jpg",
+      "attachments/11.jpg"
+    ]
+  }
+}

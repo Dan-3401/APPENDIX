@@ -1,5 +1,10 @@
 APPENDIX｜補足資料・出典一覧
 
+作品本体｜幻想を遊べる形へ
+オンライン閲覧：portfolio/index.html
+PDF原本：portfolio/portfolio.pdf
+全29ページ。以下のp.は紙面の印刷番号を指し、PDFの通し番号とは異なります。
+
 ポートフォリオの各ページに関連する企画書、原稿、画像資料、外部リンクをまとめています。「p.」はポートフォリオ本体のページ番号を示し、添付資料のページ番号ではありません。添付番号は元のファイル名に対応しています。
 
 1. 企画書・原稿
@@ -31,7 +36,7 @@ p.7
 画像2に対応する動画：https://www.bilibili.com/video/BV1ag411J74V/
 画像3に対応する動画：https://www.bilibili.com/video/BV14d4y1H71N/
 
-p.8–12
+p.8–11
 各ページの画像に対応する動画は、以下の投稿動画一覧からご確認いただけます。
 https://space.bilibili.com/454049929/upload/video
 個々の画像に対応する動画URLは元の索引に記載がないため、投稿動画一覧へのリンクを掲載しています。
@@ -41,19 +46,19 @@ https://space.bilibili.com/454049929/upload/video
 p.13｜GitHub プロフィール
 https://github.com/Dan-3401
 
-p.18・p.19｜Root C# プロジェクト
+p.17・p.18｜Root C# プロジェクト
 両ページとも、以下の同一リポジトリに対応しています。
 https://github.com/Dan-3401/root-c-
 
-p.20｜Dan Mini Apps
+p.19｜Dan Mini Apps
 プロジェクトのリポジトリ：https://github.com/Dan-3401/Dan-Mini-Apps
 元の索引に重複して記載されていた同一URLは、一つにまとめています。
 
 4. 受賞・活動証明
 
 p.22：添付2（attachments/2.png）、添付3（attachments/3.png）。
-p.24：添付4（attachments/4.jpg）、添付5（attachments/5.jpg）、添付6（attachments/6.jpg）、添付7（attachments/7.jpg）。
-p.25：添付8（attachments/8.jpg）、添付9（attachments/9.jpg）、添付10（attachments/10.jpg）、添付11（attachments/11.jpg）。
+p.23：添付4（attachments/4.jpg）、添付5（attachments/5.jpg）、添付6（attachments/6.jpg）、添付7（attachments/7.jpg）。
+p.24：添付8（attachments/8.jpg）、添付9（attachments/9.jpg）、添付10（attachments/10.jpg）、添付11（attachments/11.jpg）。
 添付2・3は最優秀賞に関する資料、その他は賞状・任命書・活動証明です。詳細は各資料の原本をご確認ください。
 
 閲覧について

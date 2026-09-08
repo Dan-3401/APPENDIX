@@ -3,13 +3,13 @@ APPENDIX｜補足資料・出典一覧
 作品本体｜幻想を遊べる形へ
 オンライン閲覧：portfolio/index.html
 PDF原本：portfolio/portfolio.pdf
-全29ページ。以下のp.は紙面の印刷番号を指し、PDFの通し番号とは異なります。
+全29ページ。以下のp.はPDFのページ番号です。表紙を1ページ目として数えています。
 
 ポートフォリオの各ページに関連する企画書、原稿、画像資料、外部リンクをまとめています。「p.」はポートフォリオ本体のページ番号を示し、添付資料のページ番号ではありません。添付番号は元のファイル名に対応しています。
 
 1. 企画書・原稿
 
-p.4｜『神聖刻痕 Root』
+p.5｜『神聖刻痕 Root』
 手書き原稿（中国語）：方向補正済みの製本版PDF（全15ページ）を掲載しています。
 オンライン閲覧：manuscripts/index.html
 PDF原本：manuscripts/root-manuscript-cn.pdf
@@ -18,7 +18,7 @@ PDF原本：manuscripts/root-manuscript-cn.pdf
 オンライン全文：reading/root.html
 電子版の企画書は、現段階の企画内容を整理したものであり、手書き原稿をページごとに転記したものではありません。
 
-p.14｜『PC救済計画』
+p.15｜『PC救済計画』
 作品公開ページ：https://dan-3401.github.io/PC-SAVE-PROJECT/
 ゲーム本体 v1.0 のリリースページ：https://github.com/Dan-3401/PC-SAVE-PROJECT/releases/tag/v1.0
 日本語企画書：documents/pc-jp.docx
@@ -27,37 +27,37 @@ p.14｜『PC救済計画』
 
 2. 動画・画像の出典
 
-p.6
+p.7
 画像1に対応する動画：https://www.toutiao.com/video/6519654261809217540/
 画像2のプロフィール画像：添付1（attachments/1.jpg）。
 
-p.7
+p.8
 画像1に対応する動画：https://www.bilibili.com/video/BV1x24y1Q72n/
 画像2に対応する動画：https://www.bilibili.com/video/BV1ag411J74V/
 画像3に対応する動画：https://www.bilibili.com/video/BV14d4y1H71N/
 
-p.8–11
+p.9–12
 各ページの画像に対応する動画は、以下の投稿動画一覧からご確認いただけます。
 https://space.bilibili.com/454049929/upload/video
 関連動画は、こちらの投稿一覧からご覧いただけます。
 
 3. 開発資料
 
-p.13｜GitHub プロフィール
+p.14｜GitHub プロフィール
 https://github.com/Dan-3401
 
-p.17・p.18｜Root C# プロジェクト
+p.18・p.19｜Root C# プロジェクト
 両ページとも、以下の同一リポジトリに対応しています。
 https://github.com/Dan-3401/root-c-
 
-p.19｜Dan Mini Apps
+p.20｜Dan Mini Apps
 プロジェクトのリポジトリ：https://github.com/Dan-3401/Dan-Mini-Apps
 
 4. 受賞・活動証明
 
-p.22：添付2（attachments/2.png）、添付3（attachments/3.png）。
-p.23：添付4（attachments/4.jpg）、添付5（attachments/5.jpg）、添付6（attachments/6.jpg）、添付7（attachments/7.jpg）。
-p.24：添付8（attachments/8.jpg）、添付9（attachments/9.jpg）、添付10（attachments/10.jpg）、添付11（attachments/11.jpg）。
+p.23：添付2（attachments/2.png）、添付3（attachments/3.png）。
+p.24：添付4（attachments/4.jpg）、添付5（attachments/5.jpg）、添付6（attachments/6.jpg）、添付7（attachments/7.jpg）。
+p.25：添付8（attachments/8.jpg）、添付9（attachments/9.jpg）、添付10（attachments/10.jpg）、添付11（attachments/11.jpg）。
 添付2・3は最優秀賞に関する資料、その他は賞状・任命書・活動証明です。詳細は各資料の原本をご確認ください。
 
 閲覧について

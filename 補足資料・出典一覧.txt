@@ -36,7 +36,7 @@ p.8
 画像2に対応する動画：https://www.bilibili.com/video/BV1ag411J74V/
 画像3に対応する動画：https://www.bilibili.com/video/BV14d4y1H71N/
 
-p.9–12
+p.09–12
 各ページの画像に対応する動画は、以下の投稿動画一覧からご確認いただけます。
 https://space.bilibili.com/454049929/upload/video
 関連動画は、こちらの投稿一覧からご覧いただけます。

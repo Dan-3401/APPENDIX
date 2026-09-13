@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-08",
+  "updated": "2026-09-13",
   "files": [
     {
       "source": "1.jpg",
@@ -200,23 +200,23 @@
       "sha256": "e8f9d4305e355ee4d2aced3707e2d1204adf530d7fd8e8dd3675680939822768"
     },
     {
-      "source": "幻想を、遊べる形over0.3.pdf",
+      "source": "幻想を、遊べる形over1.2.pdf",
       "source_type": "portfolio_pdf",
       "published": "portfolio/portfolio.pdf",
       "online": "portfolio/index.html",
-      "pages": 29,
-      "sha256": "a8e2ccebf89b073fc10432bab795582f9e08578f211eba47a1fc396d716ea15e"
+      "pages": 30,
+      "sha256": "1c155ce98ced29263efa618b68d44c2a647cf47a92645a052546e23ad1070326"
     },
     {
-      "source": "幻想を、遊べる形over0.3.pdf",
+      "source": "幻想を、遊べる形over1.2.pdf",
       "source_type": "portfolio_page_render",
       "source_page": 1,
       "printed_page": "表紙",
       "published": "portfolio/pages/page-01.jpg",
-      "sha256": "9afdfc03601d091de83dcce9772bf969f17d1dcd741994e375ec286d384be2c4"
+      "sha256": "9f623799f3091bea48c12c6eb195923e9f778fa9d3639ae5a8634f37e383206c"
     },
     {
-      "source": "幻想を、遊べる形over0.3.pdf",
+      "source": "幻想を、遊べる形over1.2.pdf",
       "source_type": "portfolio_page_render",
       "source_page": 2,
       "printed_page": "p.02",
@@ -224,15 +224,15 @@
       "sha256": "c8f73fa91cebce0d7fee9089de05d007baa005b44de98bb5e020978cb4a9666a"
     },
     {
-      "source": "幻想を、遊べる形over0.3.pdf",
+      "source": "幻想を、遊べる形over1.2.pdf",
       "source_type": "portfolio_page_render",
       "source_page": 3,
       "printed_page": "p.03",
       "published": "portfolio/pages/page-03.jpg",
-      "sha256": "f0d0a2e6d5d7884f170621f8da24625adef1874d21f6b56ef06e47204e14d135"
+      "sha256": "54f5f99fe5ec39d22ca7caf50ae04639092f8dbea6d571415ed64c12450a0680"
     },
     {
-      "source": "幻想を、遊べる形over0.3.pdf",
+      "source": "幻想を、遊べる形over1.2.pdf",
       "source_type": "portfolio_page_render",
       "source_page": 4,
       "printed_page": "p.04",
@@ -240,7 +240,7 @@
       "sha256": "82869b3ff49b957cf852b7bef18ea41c305499e448f5508ba4033d1d63b149d1"
     },
     {
-      "source": "幻想を、遊べる形over0.3.pdf",
+      "source": "幻想を、遊べる形over1.2.pdf",
       "source_type": "portfolio_page_render",
       "source_page": 5,
       "printed_page": "p.05",
@@ -248,15 +248,15 @@
       "sha256": "f5df889b5d25c9609bf6a9df0e38364f8b0baa056bd5925725add0fd38c77b2b"
     },
     {
-      "source": "幻想を、遊べる形over0.3.pdf",
+      "source": "幻想を、遊べる形over1.2.pdf",
       "source_type": "portfolio_page_render",
       "source_page": 6,
       "printed_page": "p.06",
       "published": "portfolio/pages/page-06.jpg",
-      "sha256": "410c71d8b2214df8ed910ea96ae9cbc82c817c5f5342ad89a1020098450368fb"
+      "sha256": "96f8b81f46a877158ca5ec7684d44c3c98f018748484afeee28c9b4b703a9314"
     },
     {
-      "source": "幻想を、遊べる形over0.3.pdf",
+      "source": "幻想を、遊べる形over1.2.pdf",
       "source_type": "portfolio_page_render",
       "source_page": 7,
       "printed_page": "p.07",
@@ -264,7 +264,7 @@
       "sha256": "5496bf14146258738e1f476ac8441354dfbac2c4ee5cfee9192b3f762eed643d"
     },
     {
-      "source": "幻想を、遊べる形over0.3.pdf",
+      "source": "幻想を、遊べる形over1.2.pdf",
       "source_type": "portfolio_page_render",
       "source_page": 8,
       "printed_page": "p.08",
@@ -272,7 +272,7 @@
       "sha256": "8f42c859ebff51c156bb9569246789f2d758337f235da5ce81afd85f11f5eade"
     },
     {
-      "source": "幻想を、遊べる形over0.3.pdf",
+      "source": "幻想を、遊べる形over1.2.pdf",
       "source_type": "portfolio_page_render",
       "source_page": 9,
       "printed_page": "p.09",
@@ -280,7 +280,7 @@
       "sha256": "3f39712561aeebc65ce0c5a392f7f09e5f4affd2efe256ec61b19da405215d90"
     },
     {
-      "source": "幻想を、遊べる形over0.3.pdf",
+      "source": "幻想を、遊べる形over1.2.pdf",
       "source_type": "portfolio_page_render",
       "source_page": 10,
       "printed_page": "p.10",
@@ -288,15 +288,15 @@
       "sha256": "b82edf6e5524f50061a0247b511d76cde5b94e6a351e4bd7b1546e0767351a21"
     },
     {
-      "source": "幻想を、遊べる形over0.3.pdf",
+      "source": "幻想を、遊べる形over1.2.pdf",
       "source_type": "portfolio_page_render",
       "source_page": 11,
       "printed_page": "p.11",
       "published": "portfolio/pages/page-11.jpg",
-      "sha256": "2d1ab9ed77ea7b461c77d6b31e0b214b20a3efba3328fe182467909b08bca0a7"
+      "sha256": "9d0b33b6c9cb05b9a45d68fc0288497f1ca2a9d49ab8b9c8885ee6593af3f4d0"
     },
     {
-      "source": "幻想を、遊べる形over0.3.pdf",
+      "source": "幻想を、遊べる形over1.2.pdf",
       "source_type": "portfolio_page_render",
       "source_page": 12,
       "printed_page": "p.12",
@@ -304,15 +304,15 @@
       "sha256": "b3cb96e2b4bf5ec82ef173b50d4746e58381f82b261f63e8493171f491abe91a"
     },
     {
-      "source": "幻想を、遊べる形over0.3.pdf",
+      "source": "幻想を、遊べる形over1.2.pdf",
       "source_type": "portfolio_page_render",
       "source_page": 13,
       "printed_page": "p.13",
       "published": "portfolio/pages/page-13.jpg",
-      "sha256": "d0004a926b7d660229105d4812ce7c0e476e5c93514fa31c93b98e32ef8bd70a"
+      "sha256": "d932d719210d4c37e631523ecd23d9f347e76cf8b400f5377f10dd81a1b5b3b7"
     },
     {
-      "source": "幻想を、遊べる形over0.3.pdf",
+      "source": "幻想を、遊べる形over1.2.pdf",
       "source_type": "portfolio_page_render",
       "source_page": 14,
       "printed_page": "p.14",
@@ -320,7 +320,7 @@
       "sha256": "13bfde6f9186bbf2c968361e2d76ed1c113bab3f5fdbbc7f9247e7afe199b8f3"
     },
     {
-      "source": "幻想を、遊べる形over0.3.pdf",
+      "source": "幻想を、遊べる形over1.2.pdf",
       "source_type": "portfolio_page_render",
       "source_page": 15,
       "printed_page": "p.15",
@@ -328,7 +328,7 @@
       "sha256": "4c4e461ae71705c2b6de94200b517a080c9b3c496c03dccd73bdcecd69814297"
     },
     {
-      "source": "幻想を、遊べる形over0.3.pdf",
+      "source": "幻想を、遊べる形over1.2.pdf",
       "source_type": "portfolio_page_render",
       "source_page": 16,
       "printed_page": "p.16",
@@ -336,7 +336,7 @@
       "sha256": "b6fc5c4e1e5704f17afa097a587f943252b71a5d6bfec055a08a295b4d337f72"
     },
     {
-      "source": "幻想を、遊べる形over0.3.pdf",
+      "source": "幻想を、遊べる形over1.2.pdf",
       "source_type": "portfolio_page_render",
       "source_page": 17,
       "printed_page": "p.17",
@@ -344,7 +344,7 @@
       "sha256": "a1dcd73325e7a38813621672c09796c25823d63a05a9db366ad798ada952a288"
     },
     {
-      "source": "幻想を、遊べる形over0.3.pdf",
+      "source": "幻想を、遊べる形over1.2.pdf",
       "source_type": "portfolio_page_render",
       "source_page": 18,
       "printed_page": "p.18",
@@ -352,7 +352,7 @@
       "sha256": "4dce51e17d1dd191cf3276fb73d318c1f60688af725347d4ac6ca94fabaf10fe"
     },
     {
-      "source": "幻想を、遊べる形over0.3.pdf",
+      "source": "幻想を、遊べる形over1.2.pdf",
       "source_type": "portfolio_page_render",
       "source_page": 19,
       "printed_page": "p.19",
@@ -360,15 +360,15 @@
       "sha256": "b86a59c2a044bd078e94608beeb886d50aeb4faa4f4d55abf48037f99ee9598e"
     },
     {
-      "source": "幻想を、遊べる形over0.3.pdf",
+      "source": "幻想を、遊べる形over1.2.pdf",
       "source_type": "portfolio_page_render",
       "source_page": 20,
       "printed_page": "p.20",
       "published": "portfolio/pages/page-20.jpg",
-      "sha256": "1b2731e70ec4000903ce5d6de8e0979cc968497f59b5461f592f17835958c999"
+      "sha256": "11fb28015db9d0ef626f1d915db843faaa2b0799df2dd09f6d4d4fe3afa8700b"
     },
     {
-      "source": "幻想を、遊べる形over0.3.pdf",
+      "source": "幻想を、遊べる形over1.2.pdf",
       "source_type": "portfolio_page_render",
       "source_page": 21,
       "printed_page": "p.21",
@@ -376,15 +376,15 @@
       "sha256": "2c54cb1065c7a22e31d4a10691a1367c0479fde658e06fc6e1548d007b93b9a6"
     },
     {
-      "source": "幻想を、遊べる形over0.3.pdf",
+      "source": "幻想を、遊べる形over1.2.pdf",
       "source_type": "portfolio_page_render",
       "source_page": 22,
       "printed_page": "p.22",
       "published": "portfolio/pages/page-22.jpg",
-      "sha256": "63ae3c81d1a9c9385238c5fc446bbc734d357d34538e7f2d740b91d2d736b897"
+      "sha256": "a56c8f5249afe2d6c0e130babf366a6a3c5d7a5bd119cbe494ff02024d5f1b2e"
     },
     {
-      "source": "幻想を、遊べる形over0.3.pdf",
+      "source": "幻想を、遊べる形over1.2.pdf",
       "source_type": "portfolio_page_render",
       "source_page": 23,
       "printed_page": "p.23",
@@ -392,7 +392,7 @@
       "sha256": "27d179d55608ac390b705f9c4df185bca6061e799d904971f553a32270f856ba"
     },
     {
-      "source": "幻想を、遊べる形over0.3.pdf",
+      "source": "幻想を、遊べる形over1.2.pdf",
       "source_type": "portfolio_page_render",
       "source_page": 24,
       "printed_page": "p.24",
@@ -400,7 +400,7 @@
       "sha256": "41b76a0886501db2763968a23375971f3383c8dab18d36de0a8f96452e08e5cb"
     },
     {
-      "source": "幻想を、遊べる形over0.3.pdf",
+      "source": "幻想を、遊べる形over1.2.pdf",
       "source_type": "portfolio_page_render",
       "source_page": 25,
       "printed_page": "p.25",
@@ -408,7 +408,7 @@
       "sha256": "83ef6ddbccf7b2f536bf0716f9fc3e4e3193c8f9de0c36fb155e7646ea22181c"
     },
     {
-      "source": "幻想を、遊べる形over0.3.pdf",
+      "source": "幻想を、遊べる形over1.2.pdf",
       "source_type": "portfolio_page_render",
       "source_page": 26,
       "printed_page": "p.26",
@@ -416,28 +416,36 @@
       "sha256": "f06ad60c02382c852e34e391b97da11aefce030c9e23fc1bfca022ca5109c026"
     },
     {
-      "source": "幻想を、遊べる形over0.3.pdf",
+      "source": "幻想を、遊べる形over1.2.pdf",
       "source_type": "portfolio_page_render",
       "source_page": 27,
       "printed_page": "p.27",
       "published": "portfolio/pages/page-27.jpg",
-      "sha256": "9bb9bd2447090ceeaa51ede914a0939e48e60fea7de63ba5ad0a0c53a8cdfca7"
+      "sha256": "f8182757c4838eb56ffb5aa86adfd986be9cf1f5188098e57b16a101b7ff95ed"
     },
     {
-      "source": "幻想を、遊べる形over0.3.pdf",
+      "source": "幻想を、遊べる形over1.2.pdf",
       "source_type": "portfolio_page_render",
       "source_page": 28,
       "printed_page": "∞",
       "published": "portfolio/pages/page-28.jpg",
-      "sha256": "a5e974014d5b48404a0b620ba119ee21d33b6c12180cb5d04fa797f4bb16e541"
+      "sha256": "b8e7d1a2cf25c88316f56b41bdf722edb9840a287216eb46190d103501132326"
     },
     {
-      "source": "幻想を、遊べる形over0.3.pdf",
+      "source": "幻想を、遊べる形over1.2.pdf",
       "source_type": "portfolio_page_render",
       "source_page": 29,
       "printed_page": "p.29",
       "published": "portfolio/pages/page-29.jpg",
-      "sha256": "b252189048b997bb853741107887a3cdf4979d351c2acc8bee3726573b694d44"
+      "sha256": "ed46acb6c6d3113691a834e112ccd022b578bd169a5e1591d7eb8ffb135475ed"
+    },
+    {
+      "source": "幻想を、遊べる形over1.2.pdf",
+      "source_type": "portfolio_page_render",
+      "source_page": 30,
+      "printed_page": "p.30",
+      "published": "portfolio/pages/page-30.jpg",
+      "sha256": "d1814a7da80b80860c5b84dc4494b6f469d922c9b525130c069f3e6d15f139a2"
     }
   ],
   "manuscript_status": "published",
@@ -493,7 +501,7 @@
   "manuscript_page_count": 15,
   "primary_document": {
     "title": "幻想を遊べる形へ",
-    "pages": 29,
+    "pages": 30,
     "online": "portfolio/index.html",
     "pdf": "portfolio/portfolio.pdf",
     "page_numbering": "pdf_page_number",
@@ -526,10 +534,11 @@
       "26": "p.26",
       "27": "p.27",
       "28": "p.28",
-      "29": "p.29"
+      "29": "p.29",
+      "30": "p.30"
     },
-    "source_filename": "幻想を、遊べる形over0.3.pdf",
-    "version": "over0.3",
-    "bytes": 11750929
+    "source_filename": "幻想を、遊べる形over1.2.pdf",
+    "version": "over1.2",
+    "bytes": 12043775
   }
 }

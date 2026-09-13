@@ -2,7 +2,7 @@
 
 GUAN GUOZHONG（Dan）のポートフォリオ『幻想を遊べる形へ』本体と、その補足資料です。
 
-**[ポートフォリオ本体を読む（全29ページ）](https://dan-3401.github.io/APPENDIX/portfolio/)**
+**[ポートフォリオ本体を読む（全30ページ）](https://dan-3401.github.io/APPENDIX/portfolio/)**
 
 [PDF原本](https://dan-3401.github.io/APPENDIX/portfolio/portfolio.pdf)
 
